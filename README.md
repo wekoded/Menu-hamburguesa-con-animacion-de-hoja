@@ -1,6 +1,6 @@
 <p align="center"><img src="https://github.com/Kodesarrolladores/Base/blob/master/FB%20profile/facebook-profile-transparente.png" alt="Mark Text" width="100" height="100"></p>
 
-<h1 align="center">Menu hamburguesa con animacion de hoja</h1>
+<h1 align="center">Menu hamburguesa con animación de hoja</h1>
 
 <p align="center">
 El menú hamburguesa se ha popularizado en dispositivos móviles (celulares, tablets), utilizado no sólo en sitios web sino<br>
